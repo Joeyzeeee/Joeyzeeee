@@ -49,9 +49,10 @@ A personal website showcasing my projects, experience, and skills, built with Re
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Joeyzeeee&show_icons=true&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9DA7B3&icon_color=9DA7B3&rank_icon=github" alt="GitHub stats" />
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=Joeyzeeee&show_icons=true&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9DA7B3&icon_color=9DA7B3&rank_icon=github" />
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joeyzeeee&layout=compact&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9DA7B3" alt="Top languages" />
+
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joeyzeeee&layout=compact&hide_border=true&theme=transparent&title_color=E6EDF3&text_color=9DA7B3" />
 
 </div>
 
