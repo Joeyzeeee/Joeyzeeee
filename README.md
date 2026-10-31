@@ -61,3 +61,20 @@ A personal website showcasing my projects, experience, and skills, built with Re
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Joeyzeeee&style=flat-square&color=6E7681&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
+
+
+<div align="center">
+
+  <h3>👾 My Contribution Graph</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Joeyzeeee/Joeyzeeee/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Joeyzeeee/Joeyzeeee/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/Joeyzeeee/Joeyzeeee/output/pacman-contribution-graph.svg">
+  </picture>
+
+</div>
+
