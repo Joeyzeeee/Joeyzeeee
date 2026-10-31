@@ -37,7 +37,7 @@
 
 ## Featured Projects
 
-### SIFORA — Campus Facility Borrowing System
+### SIFORA | Campus Facility Borrowing System
 A web application for campus facility reservations, approval workflows, and facility utilization. I helped lead the project by coordinating tasks, organizing the schedule, and monitoring team progress.
 
 ### Personal Portfolio
